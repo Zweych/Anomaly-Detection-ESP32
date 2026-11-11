@@ -1,0 +1,25 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# PlatformIO / Arduino / ESP32 Build Artifacts
+.pio/
+.vscode/
+build/
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
